@@ -1,0 +1,122 @@
+h1 {
+    /* 屬性: 值; */
+    color: #ffffff;
+    /* 字型大小 */
+    font-size: 42px;
+    /* 字的位子 */
+    text-align: center;
+    /* 水平偏移、垂直偏移、模糊擴散 #顏色 */
+    text-shadow: 2px 2px 2px #545E96;
+}
+
+/* .很重要 */
+
+header {
+    background-color: #01181f;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    font-family: 標楷體;
+}
+
+
+
+.sec1 {
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: 標楷體;
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url('https://images.unsplash.com/photo-1560881030-e68633b4f906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1812&q=80');
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 2px 2px 2px #a68787;
+}
+
+body {
+    background-color: #9fa1a8;
+}
+
+
+
+
+.important-title {
+    color: #ffffff;
+    font-size: 38px;
+}
+
+
+
+.sub-title {
+    color: #dad5d5;
+    font-size: 18px;
+    text-align: right;
+    padding-right: 80px;
+    font-family: 標楷體;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    font-family: 標楷體;
+    font-weight: bold;
+}
+
+.article {
+    font-family: 標楷體;
+}
+
+.sentence {
+    padding-bottom: 40px;
+}
+
+.img1 {
+    padding-top: 60px;
+    align-items: center;
+}
+
+.img3 {
+    align-items: center;
+}
+
+.img4 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+}
+
+.sec3 {
+    background-color: #bfc1c9;
+    padding-top: 60px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+h6 {
+    color: #3b3b3b;
+    font-family: 標楷體;
+    padding-bottom: 10px;
+}
+
+h5 {
+    color: #dad5d5;
+    font-family: 標楷體;
+    padding-bottom: 10px;
+}
